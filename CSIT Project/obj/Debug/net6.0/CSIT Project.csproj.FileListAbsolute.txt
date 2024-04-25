@@ -1,0 +1,42 @@
+C:\Cursuri Ovidius\CSIT\CSIT Project\CSIT Project\bin\Debug\net6.0\appsettings.Development.json
+C:\Cursuri Ovidius\CSIT\CSIT Project\CSIT Project\bin\Debug\net6.0\appsettings.json
+C:\Cursuri Ovidius\CSIT\CSIT Project\CSIT Project\bin\Debug\net6.0\CSIT Project.staticwebassets.runtime.json
+C:\Cursuri Ovidius\CSIT\CSIT Project\CSIT Project\bin\Debug\net6.0\CSIT Project.exe
+C:\Cursuri Ovidius\CSIT\CSIT Project\CSIT Project\bin\Debug\net6.0\CSIT Project.deps.json
+C:\Cursuri Ovidius\CSIT\CSIT Project\CSIT Project\bin\Debug\net6.0\CSIT Project.runtimeconfig.json
+C:\Cursuri Ovidius\CSIT\CSIT Project\CSIT Project\bin\Debug\net6.0\CSIT Project.dll
+C:\Cursuri Ovidius\CSIT\CSIT Project\CSIT Project\bin\Debug\net6.0\CSIT Project.pdb
+C:\Cursuri Ovidius\CSIT\CSIT Project\CSIT Project\obj\Debug\net6.0\CSIT Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursuri Ovidius\CSIT\CSIT Project\CSIT Project\obj\Debug\net6.0\CSIT Project.AssemblyInfoInputs.cache
+C:\Cursuri Ovidius\CSIT\CSIT Project\CSIT Project\obj\Debug\net6.0\CSIT Project.AssemblyInfo.cs
+C:\Cursuri Ovidius\CSIT\CSIT Project\CSIT Project\obj\Debug\net6.0\CSIT Project.csproj.CoreCompileInputs.cache
+C:\Cursuri Ovidius\CSIT\CSIT Project\CSIT Project\obj\Debug\net6.0\CSIT Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Cursuri Ovidius\CSIT\CSIT Project\CSIT Project\obj\Debug\net6.0\CSIT Project.RazorAssemblyInfo.cache
+C:\Cursuri Ovidius\CSIT\CSIT Project\CSIT Project\obj\Debug\net6.0\CSIT Project.RazorAssemblyInfo.cs
+C:\Cursuri Ovidius\CSIT\CSIT Project\CSIT Project\obj\Debug\net6.0\staticwebassets.build.json
+C:\Cursuri Ovidius\CSIT\CSIT Project\CSIT Project\obj\Debug\net6.0\staticwebassets.development.json
+C:\Cursuri Ovidius\CSIT\CSIT Project\CSIT Project\obj\Debug\net6.0\staticwebassets\msbuild.CSIT Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Cursuri Ovidius\CSIT\CSIT Project\CSIT Project\obj\Debug\net6.0\staticwebassets\msbuild.build.CSIT Project.props
+C:\Cursuri Ovidius\CSIT\CSIT Project\CSIT Project\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CSIT Project.props
+C:\Cursuri Ovidius\CSIT\CSIT Project\CSIT Project\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CSIT Project.props
+C:\Cursuri Ovidius\CSIT\CSIT Project\CSIT Project\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Cursuri Ovidius\CSIT\CSIT Project\CSIT Project\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Cursuri Ovidius\CSIT\CSIT Project\CSIT Project\obj\Debug\net6.0\scopedcss\bundle\CSIT Project.styles.css
+C:\Cursuri Ovidius\CSIT\CSIT Project\CSIT Project\obj\Debug\net6.0\scopedcss\projectbundle\CSIT Project.bundle.scp.css
+C:\Cursuri Ovidius\CSIT\CSIT Project\CSIT Project\obj\Debug\net6.0\CSIT Project.dll
+C:\Cursuri Ovidius\CSIT\CSIT Project\CSIT Project\obj\Debug\net6.0\refint\CSIT Project.dll
+C:\Cursuri Ovidius\CSIT\CSIT Project\CSIT Project\obj\Debug\net6.0\CSIT Project.pdb
+C:\Cursuri Ovidius\CSIT\CSIT Project\CSIT Project\obj\Debug\net6.0\CSIT Project.genruntimeconfig.cache
+C:\Cursuri Ovidius\CSIT\CSIT Project\CSIT Project\obj\Debug\net6.0\ref\CSIT Project.dll
+C:\Cursuri Ovidius\CSIT\CSIT Project\CSIT Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Cursuri Ovidius\CSIT\CSIT Project\CSIT Project\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Cursuri Ovidius\CSIT\CSIT Project\CSIT Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Cursuri Ovidius\CSIT\CSIT Project\CSIT Project\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Cursuri Ovidius\CSIT\CSIT Project\CSIT Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Cursuri Ovidius\CSIT\CSIT Project\CSIT Project\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Cursuri Ovidius\CSIT\CSIT Project\CSIT Project\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Cursuri Ovidius\CSIT\CSIT Project\CSIT Project\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Cursuri Ovidius\CSIT\CSIT Project\CSIT Project\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Cursuri Ovidius\CSIT\CSIT Project\CSIT Project\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Cursuri Ovidius\CSIT\CSIT Project\CSIT Project\obj\Debug\net6.0\CSIT Project.csproj.AssemblyReference.cache
+C:\Cursuri Ovidius\CSIT\CSIT Project\CSIT Project\obj\Debug\net6.0\CSIT Pro.08CB45FF.Up2Date

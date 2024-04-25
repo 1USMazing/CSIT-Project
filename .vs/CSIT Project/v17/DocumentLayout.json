@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Cursuri Ovidius\\CSIT\\CSIT Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF84CFBC-BD8D-4653-9EDF-D388FCE0F341}|CSIT Project\\CSIT Project.csproj|c:\\cursuri ovidius\\csit\\csit project\\csit project\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF84CFBC-BD8D-4653-9EDF-D388FCE0F341}|CSIT Project\\CSIT Project.csproj|solutionrelative:csit project\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF84CFBC-BD8D-4653-9EDF-D388FCE0F341}|CSIT Project\\CSIT Project.csproj|c:\\cursuri ovidius\\csit\\csit project\\csit project\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF84CFBC-BD8D-4653-9EDF-D388FCE0F341}|CSIT Project\\CSIT Project.csproj|solutionrelative:csit project\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF84CFBC-BD8D-4653-9EDF-D388FCE0F341}|CSIT Project\\CSIT Project.csproj|c:\\cursuri ovidius\\csit\\csit project\\csit project\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF84CFBC-BD8D-4653-9EDF-D388FCE0F341}|CSIT Project\\CSIT Project.csproj|solutionrelative:csit project\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 207,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Cursuri Ovidius\\CSIT\\CSIT Project\\CSIT Project\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CSIT Project\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Cursuri Ovidius\\CSIT\\CSIT Project\\CSIT Project\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CSIT Project\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T15:54:29.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Cursuri Ovidius\\CSIT\\CSIT Project\\CSIT Project\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "CSIT Project\\Models\\Order.cs",
+              "ToolTip": "C:\\Cursuri Ovidius\\CSIT\\CSIT Project\\CSIT Project\\Models\\Order.cs",
+              "RelativeToolTip": "CSIT Project\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T15:55:12.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Cursuri Ovidius\\CSIT\\CSIT Project\\CSIT Project\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "CSIT Project\\Models\\Address.cs",
+              "ToolTip": "C:\\Cursuri Ovidius\\CSIT\\CSIT Project\\CSIT Project\\Models\\Address.cs",
+              "RelativeToolTip": "CSIT Project\\Models\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T15:50:47.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
